@@ -1,0 +1,416 @@
+{
+  "totalItems": 8,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "productId": 501999,
+      "name": "151 Pokemon Center Elite Trainer Box (Exclusive)",
+      "cleanName": "151 Pokemon Center Elite Trainer Box Exclusive",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/501999_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/501999/pokemon-sv-scarlet-and-violet-151-151-pokemon-center-elite-trainer-box-exclusive",
+      "modifiedOn": "2026-02-19T18:47:19.317",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "Team up with Bulbasaur, Charmander, and Squirtle, and witness a brand-new dawn in Kanto! With this new day comes a new chance to track down old friends, make new partners, and capture every last one of the original 151. Discover the extraordinary Venusaur ex, Charizard ex, and Blastoise ex in special cards with captivating illustrations, and explore the cities and countryside of a reinvigorated land\u2014you might even find the elusive Mew ex in your travels. New adventures will unfold and new horizons will be revealed in the Scarlet & Violet\u2014151 expansion!<br><br>\r\nThe Pok\u00e9mon TCG: Scarlet & Violet \u2014 151 Pok\u00e9mon Center Elite Trainer Box includes:\r\n<br>\u2022 11 Pok\u00e9mon TCG: Scarlet & Violet\u2014151 booster packs\r\n<br>\u2022 Each booster pack contains 10 cards and 1 Basic Energy. Cards vary by pack.\r\n<br>\u2022 1 full-art foil promo card featuring Snorlax with a Pok\u00e9mon Center logo\r\n<br>\u2022 1 full-art foil promo card featuring Snorlax\r\n<br>\u2022 65 card sleeves\r\n<br>\u2022 45 Pok\u00e9mon TCG Energy cards\r\n<br>\u2022 A player\u2019s guide to the Scarlet & Violet\u2014151 expansion\r\n<br>\u2022 6 damage-counter dice\r\n<br>\u2022 1 competition-legal coin-flip die\r\n<br>\u2022 2 plastic condition markers\r\n<br>\u2022 A collector\u2019s box to hold everything, with 4 dividers to keep it organized\r\n<br>\u2022 A code card for Pok\u00e9mon Trading Card Game Live"
+        }
+      ]
+    },
+    {
+      "productId": 502000,
+      "name": "151 Booster Bundle",
+      "cleanName": "151 Booster Bundle",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/502000_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/502000/pokemon-sv-scarlet-and-violet-151-151-booster-bundle",
+      "modifiedOn": "2026-10-22T19:56:00.52",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "Team up with Bulbasaur, Charmander, and Squirtle, and witness a brand-new dawn in Kanto! With this new day comes a new chance to track down old friends, make new partners, and capture every last one of the original 151. Discover the extraordinary Venusaur ex, Charizard ex, and Blastoise ex in special cards with captivating illustrations, and explore the cities and countryside of a reinvigorated land\u2014you might even find the elusive Mew ex in your travels. New adventures will unfold and new horizons will be revealed in the Scarlet & Violet\u2014151 expansion!<br><br>Expand your collection with this Booster Bundle containing six booster packs from Pok\u00e9mon TCG: 151"
+        }
+      ]
+    },
+    {
+      "productId": 502548,
+      "name": "Squirtle - 007/165",
+      "cleanName": "Squirtle 007 165",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/502548_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/502548/pokemon-sv-scarlet-and-violet-151-squirtle-007-165",
+      "modifiedOn": "2026-07-10T01:58:33.263",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "007/165"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Water"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "60"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[W] Withdraw\r\n<br>Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokemon by attacks."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[WW] Skull Bash (20)"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "name": "Resistance",
+          "displayName": "Resistance",
+          "value": "None"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "productId": 502550,
+      "name": "Wartortle - 008/165",
+      "cleanName": "Wartortle 008 165",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/502550_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/502550/pokemon-sv-scarlet-and-violet-151-wartortle-008-165",
+      "modifiedOn": "2026-07-10T02:03:56.53",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "008/165"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Water"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "100"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[W] Free Diving\r\n<br>Put up to 3 Basic W Energy cards from your discard pile into your hand."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[WW] Spinning Attack (50)"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Lx2"
+        },
+        {
+          "name": "Resistance",
+          "displayName": "Resistance",
+          "value": "None"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "productId": 502552,
+      "name": "Bulbasaur - 001/165",
+      "cleanName": "Bulbasaur 001 165",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/502552_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/502552/pokemon-sv-scarlet-and-violet-151-bulbasaur-001-165",
+      "modifiedOn": "2026-08-11T02:05:01.42",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "001/165"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "70"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[1G] Leech Seed (20)<br>Heal 20 damage from this Pokemon."
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "name": "Resistance",
+          "displayName": "Resistance",
+          "value": "None"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "2"
+        }
+      ]
+    },
+    {
+      "productId": 502553,
+      "name": "Ivysaur - 002/165",
+      "cleanName": "Ivysaur 002 165",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/502553_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/502553/pokemon-sv-scarlet-and-violet-151-ivysaur-002-165",
+      "modifiedOn": "2026-07-09T22:31:19.427",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "002/165"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "100"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[1G] Leech Seed (30)<br>Heal 20 damage from this Pokemon."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[1GG] Vine Whip (80)"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "name": "Resistance",
+          "displayName": "Resistance",
+          "value": "None"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "productId": 502555,
+      "name": "Charmander - 004/165",
+      "cleanName": "Charmander 004 165",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/502555_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/502555/pokemon-sv-scarlet-and-violet-151-charmander-004-165",
+      "modifiedOn": "2026-08-24T20:04:33.923",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "004/165"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Fire"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "70"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[R] Blazing Destruction<br>Discard a Stadium in play."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[RR] Steady Firebreathing (30)"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Wx2"
+        },
+        {
+          "name": "Resistance",
+          "displayName": "Resistance",
+          "value": "None"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "productId": 531960,
+      "name": "Code Card - 151 Pokemon Center Elite Trainer Box (Exclusive)",
+      "cleanName": "Code Card 151 Pokemon Center Elite Trainer Box Exclusive",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/531960_200w.jpg",
+      "categoryId": 3,
+      "groupId": 23237,
+      "url": "https://www.tcgplayer.com/product/531960/pokemon-sv-scarlet-and-violet-151-code-card-151-pokemon-center-elite-trainer-box-exclusive",
+      "modifiedOn": "2024-01-03T21:48:59.337",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Code Card"
+        },
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "This listing is <strong>not</strong> a physical item. Please keep in mind that this <strong>Code Card</strong> listing represents a digital copy of the stated item for the Pok\u00e9mon TCG Online <strong>and/or</strong> the Pok\u00e9mon TCG Live games. You may receive the physical <strong>Code Card</strong>. Upon purchase, please work with your specific Seller by sending them a message using the <strong>Contact Seller</strong> button on the order details in your <a href=https://store.tcgplayer.com/myaccount/orderhistory>Order History</a> to opt in to having your <strong>Code Card</strong> code delivered digitally due to the nature of the product."
+        }
+      ]
+    }
+  ]
+}

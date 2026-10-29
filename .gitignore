@@ -1,0 +1,13 @@
+node_modules/
+*.log
+.DS_Store
+
+# A run's raw download and build output live in a temporary folder, never here
+raw/
+out/
+!jobs/prices/fixture/raw/
+!jobs/prices/fixture/out/
+
+# Secrets never enter the repo (the job needs none)
+.env
+.env.*

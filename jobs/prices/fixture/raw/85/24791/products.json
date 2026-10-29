@@ -1,0 +1,456 @@
+{
+  "totalItems": 8,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "productId": 709110,
+      "name": "Storm Emeralda Booster Box",
+      "cleanName": "Storm Emeralda Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709110_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709110/pokemon-japan-m6-storm-emeralda-storm-emeralda-booster-box",
+      "modifiedOn": "2026-07-31T12:40:13.32",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Description",
+          "displayName": "Description",
+          "value": "Each sealed <em>Japanese</em> Storm Emeralda Booster Box contains 30 booster packs containing 5 random cards each."
+        }
+      ]
+    },
+    {
+      "productId": 709111,
+      "name": "Storm Emeralda Booster Pack",
+      "cleanName": "Storm Emeralda Booster Pack",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709111_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709111/pokemon-japan-m6-storm-emeralda-storm-emeralda-booster-pack",
+      "modifiedOn": "2026-07-31T12:41:26.443",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Description",
+          "displayName": "Description",
+          "value": "Each sealed <em>Japanese</em> Storm Emeralda Booster Pack contains 5 random cards."
+        }
+      ]
+    },
+    {
+      "productId": 709157,
+      "name": "Heracross",
+      "cleanName": "Heracross",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709157_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709157/pokemon-japan-m6-storm-emeralda-heracross",
+      "modifiedOn": "2026-07-31T14:15:19.587",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "001/076"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "130"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Firex2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "3"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Grass] Spike Draw (20)<br> Draw 2 cards."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[Grass][Grass][Colorless] High Horsepower (130)<br> This Pokemon also does 30 damage to itself."
+        },
+        {
+          "name": "Flavor Text",
+          "displayName": "Flavor Text",
+          "value": "This powerful Pokemon thrusts its prized horn under its enemies' bellies, then lifts and throws them."
+        }
+      ]
+    },
+    {
+      "productId": 709158,
+      "name": "Surskit",
+      "cleanName": "Surskit",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709158_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709158/pokemon-japan-m6-storm-emeralda-surskit",
+      "modifiedOn": "2026-07-31T14:15:19.68",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "002/076"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "50"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Firex2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Colorless] Multiply<br> Search your deck for up to 2 Surskit and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[Grass] Bug Bite (10)"
+        },
+        {
+          "name": "Flavor Text",
+          "displayName": "Flavor Text",
+          "value": "It secretes a thick, sweet-scented syrup from the tip of its head. It lives on weed-choked ponds."
+        }
+      ]
+    },
+    {
+      "productId": 709159,
+      "name": "Masquerain - 003/076",
+      "cleanName": "Masquerain 003 076",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709159_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709159/pokemon-japan-m6-storm-emeralda-masquerain-003-076",
+      "modifiedOn": "2026-07-31T14:15:19.753",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "003/076"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "110"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Firex2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Colorless] Frightening Pattern (30)<br> During your opponent's next turn, the Defending Pokemon can't use attacks."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[Grass] Bug Out (50x)<br> Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokemon you find there that has the Bug Out attack. Then, shuffle any revealed Pokemon back into your deck. Discard the other cards."
+        },
+        {
+          "name": "Flavor Text",
+          "displayName": "Flavor Text",
+          "value": "The antennae have distinctive patterns that look like eyes. When it rains, they grow heavy, making flight impossible."
+        }
+      ]
+    },
+    {
+      "productId": 709160,
+      "name": "Cacnea",
+      "cleanName": "Cacnea",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709160_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709160/pokemon-japan-m6-storm-emeralda-cacnea",
+      "modifiedOn": "2026-07-31T14:15:19.833",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "004/076"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "70"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Firex2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "2"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Colorless] Knock Away (10+)<br> Flip a coin. If heads, this attack does 10 more damage."
+        },
+        {
+          "name": "Flavor Text",
+          "displayName": "Flavor Text",
+          "value": "It lives in arid locations. Its yellow flowers bloom once a year."
+        }
+      ]
+    },
+    {
+      "productId": 709161,
+      "name": "Cacturne",
+      "cleanName": "Cacturne",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709161_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709161/pokemon-japan-m6-storm-emeralda-cacturne",
+      "modifiedOn": "2026-07-31T14:15:19.927",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Rare"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "005/076"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "130"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Firex2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "2"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Colorless] Linear Attack<br> This attack does 30 damage to 1 of your opponent's Pokemon. <em>(Don't apply Weakness and Resistance for Benched Pokemon.)</em>"
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[Grass] Punishing Needles (10+)<br> This attack does 50 more damage for each of your opponent's Pokemon in play that has an Ability."
+        },
+        {
+          "name": "Flavor Text",
+          "displayName": "Flavor Text",
+          "value": "It lives in deserts. It becomes active at night when it hunts for prey exhausted from the desert's heat."
+        }
+      ]
+    },
+    {
+      "productId": 709162,
+      "name": "Combee",
+      "cleanName": "Combee",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/709162_200w.jpg",
+      "categoryId": 85,
+      "groupId": 24791,
+      "url": "https://www.tcgplayer.com/product/709162/pokemon-japan-m6-storm-emeralda-combee",
+      "modifiedOn": "2026-07-31T14:15:20",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "006/076"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "50"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Firex2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Grass] Fade Out (10)<br> Put this Pokemon and all attached cards into your hand."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[Colorless][Colorless][Colorless] Bug Out (50x)<br> Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pokemon you find there that has the Bug Out attack. Then, shuffle any revealed Pokemon back into your deck. Discard the other cards."
+        },
+        {
+          "name": "Flavor Text",
+          "displayName": "Flavor Text",
+          "value": "The trio is together from birth. It constantly gathers nectar from flowers to please Vespiquen."
+        }
+      ]
+    }
+  ]
+}

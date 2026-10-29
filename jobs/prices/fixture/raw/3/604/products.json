@@ -1,0 +1,222 @@
+{
+  "totalItems": 5,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "productId": 42346,
+      "name": "Alakazam",
+      "cleanName": "Alakazam",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42346_200w.jpg",
+      "categoryId": 3,
+      "groupId": 604,
+      "url": "https://www.tcgplayer.com/product/42346/pokemon-base-set-alakazam",
+      "modifiedOn": "2026-10-19T18:50:49.3",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "001/102"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "80"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 2"
+        },
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "<strong>Pok\u00e9mon Power: Damage Swap</strong> As often as you like during your turn <em>(before your attack)</em>, you may move 1 damage counter from 1 of your Pok\u00e9mon to another as long as you don't Knock Out that Pok\u00e9mon. This power can't be used if Alakazam is Asleep, Confused, or Paralyzed."
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[PPP] Confuse Ray (30)\r\n<br>Flip a coin. If heads, the Defending Pok\u00e9mon is now Confused."
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "P"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "productId": 42347,
+      "name": "Mewtwo",
+      "cleanName": "Mewtwo",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42347_200w.jpg",
+      "categoryId": 3,
+      "groupId": 604,
+      "url": "https://www.tcgplayer.com/product/42347/pokemon-base-set-mewtwo",
+      "modifiedOn": "2026-02-17T13:14:10.29",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "010/102"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Holo Rare"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Psychic"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "60"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[1P] Psychic (10+)\r\n<br>Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pok\u00e9mon."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[PP] Barrier\r\n<br>Discard 1 Psychic Energy card attached to Mewtwo in order to use this attack. During your opponent's next turn, prevent all effects of attacks, including damage, done to Mewtwo."
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "P"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "productId": 42348,
+      "name": "Lightning Energy",
+      "cleanName": "Lightning Energy",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42348_200w.jpg",
+      "categoryId": 3,
+      "groupId": 604,
+      "url": "https://www.tcgplayer.com/product/42348/pokemon-base-set-lightning-energy",
+      "modifiedOn": "2025-11-29T03:26:56.117",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "100/102"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Basic Energy"
+        }
+      ]
+    },
+    {
+      "productId": 42349,
+      "name": "Psychic Energy",
+      "cleanName": "Psychic Energy",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/42349_200w.jpg",
+      "categoryId": 3,
+      "groupId": 604,
+      "url": "https://www.tcgplayer.com/product/42349/pokemon-base-set-psychic-energy",
+      "modifiedOn": "2026-08-05T23:02:16.687",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "101/102"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Basic Energy"
+        }
+      ]
+    },
+    {
+      "productId": 136400,
+      "name": "Pokemon 2-Player Starter Set (Revised Base Set Reprint Run)",
+      "cleanName": "Pokemon 2 Player Starter Set Revised Base Set Reprint Run",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/136400_200w.jpg",
+      "categoryId": 3,
+      "groupId": 604,
+      "url": "https://www.tcgplayer.com/product/136400/pokemon-base-set-pokemon-2-player-starter-set-revised-base-set-reprint-run",
+      "modifiedOn": "2017-06-28T12:52:03.383",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "<strong>This revised reprint run of Base Set saw Shadowed printings and revised text on Pokemon cards.</strong>"
+        }
+      ]
+    }
+  ]
+}

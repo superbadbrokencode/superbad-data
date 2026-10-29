@@ -1,0 +1,280 @@
+{
+  "totalItems": 6,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "productId": 712093,
+      "name": "Delta Reign 3 Pack Blister [Seel]",
+      "cleanName": "Delta Reign 3 Pack Blister Seel",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/712093_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24831,
+      "url": "https://www.tcgplayer.com/product/712093/pokemon-me06-delta-reign-delta-reign-3-pack-blister-seel",
+      "modifiedOn": "2026-08-21T19:13:09.38",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": true,
+        "releasedOn": "2026-11-06T00:00:00",
+        "note": "This product is a Presale item with an estimated shipping date of 11/06/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated."
+      },
+      "extendedData": [
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "A Legendary Storm Is Stirring!<br>\r\nA thunderous roar from above heralds the descent of a renowned ruler of the sky! Mega Rayquaza ex brings unparallelled strength to battle, inspiring Mega Golurk ex, Mega Malamar ex, and Mega Golisopod ex to come forth and put their own skills to the test. Prevailing winds lead to legendary places and emerald-colored storms in the Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign expansion! <br>\r\nEach blister comes with 3 booster packs and a promotional card."
+        }
+      ]
+    },
+    {
+      "productId": 712094,
+      "name": "Delta Reign Booster Box",
+      "cleanName": "Delta Reign Booster Box",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/712094_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24831,
+      "url": "https://www.tcgplayer.com/product/712094/pokemon-me06-delta-reign-delta-reign-booster-box",
+      "modifiedOn": "2026-10-14T21:40:45.77",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": true,
+        "releasedOn": "2026-11-06T00:00:00",
+        "note": "This product is a Presale item with an estimated shipping date of 11/06/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated."
+      },
+      "extendedData": [
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "A Legendary Storm Is Stirring!<br>\r\nA thunderous roar from above heralds the descent of a renowned ruler of the sky! Mega Rayquaza ex brings unparallelled strength to battle, inspiring Mega Golurk ex, Mega Malamar ex, and Mega Golisopod ex to come forth and put their own skills to the test. Prevailing winds lead to legendary places and emerald-colored storms in the Pok\u00e9mon TCG: Mega Evolution\u2014Delta Reign expansion! <br>\r\nEach booster box contains 36 booster packs. <em>(Each pack contains 10 random cards)</em>"
+        }
+      ]
+    },
+    {
+      "productId": 726510,
+      "name": "Masquerain - 003/103",
+      "cleanName": "Masquerain 003 103",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/726510_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24831,
+      "url": "https://www.tcgplayer.com/product/726510/pokemon-me06-delta-reign-masquerain-003-103",
+      "modifiedOn": "2026-10-28T13:27:55.12",
+      "imageCount": 0,
+      "presaleInfo": {
+        "isPresale": true,
+        "releasedOn": "2026-11-06T00:00:00",
+        "note": "This product is a Presale item with an estimated shipping date of 11/06/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated."
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "003/103"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "110"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[C] Frightening Pattern (30)<br> During your opponent's next turn, the Defending Pok\u00e9mon can't use attacks."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[G] Bug Out (50x)<br> Reveal the bottom 7 cards of your deck, and this attack does 50 damage for each Pok\u00e9mon you find there that has the Bug Out attack. Then, shuffle any revealed Pok\u00e9mon back into your deck. Discard the other cards."
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "productId": 726511,
+      "name": "Virizion",
+      "cleanName": "Virizion",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/726511_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24831,
+      "url": "https://www.tcgplayer.com/product/726511/pokemon-me06-delta-reign-virizion",
+      "modifiedOn": "2026-10-28T13:27:55.19",
+      "imageCount": 0,
+      "presaleInfo": {
+        "isPresale": true,
+        "releasedOn": "2026-11-06T00:00:00",
+        "note": "This product is a Presale item with an estimated shipping date of 11/06/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated."
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "009/103"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "120"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[C] Double Draw<br> Draw 2 cards."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[GGC] Solar Beam (110)"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "productId": 726512,
+      "name": "Mega Golisopod ex - 011/103",
+      "cleanName": "Mega Golisopod ex 011 103",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/726512_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24831,
+      "url": "https://www.tcgplayer.com/product/726512/pokemon-me06-delta-reign-mega-golisopod-ex-011-103",
+      "modifiedOn": "2026-10-28T13:27:55.25",
+      "imageCount": 0,
+      "presaleInfo": {
+        "isPresale": true,
+        "releasedOn": "2026-11-06T00:00:00",
+        "note": "This product is a Presale item with an estimated shipping date of 11/06/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated."
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "011/103"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Double Rare"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "340"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[G] Finishing Blow (60+)<br> If your opponent's Active Pok\u00e9mon already has any damage counters on it, this attack does 160 more damage."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[CCC] Quadruple Hold (160)<br> During your opponent's next turn, the Defending Pok\u00e9mon can't retreat."
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Rx2"
+        },
+        {
+          "name": "RetreatCost",
+          "displayName": "Retreat Cost",
+          "value": "3"
+        }
+      ]
+    },
+    {
+      "productId": 726550,
+      "name": "Legendary Pyroduct - 094/103 (Left)",
+      "cleanName": "Legendary Pyroduct 094 103 Left",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/726550_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24831,
+      "url": "https://www.tcgplayer.com/product/726550/pokemon-me06-delta-reign-legendary-pyroduct-094-103-left",
+      "modifiedOn": "2026-10-28T18:35:41.273",
+      "imageCount": 0,
+      "presaleInfo": {
+        "isPresale": true,
+        "releasedOn": "2026-11-06T00:00:00",
+        "note": "This product is a Presale item with an estimated shipping date of 11/06/2026. Please keep in mind card details, including rarity and card name, may change up until release date as information is updated."
+      },
+      "extendedData": [
+        {
+          "name": "Number",
+          "displayName": "Card Number",
+          "value": "094/103 (Left Half)<br>095/103 (Right Half)"
+        },
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Uncommon"
+        },
+        {
+          "name": "Card Type",
+          "displayName": "Card Type",
+          "value": "Trainer - Stadium"
+        },
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "Evolution Pok\u00e9mon in play <em>(both yours and your opponent's)</em> have no Abilities.<br><small>You cannot play this card by itself. You must combine 2 different Legendary Pyroduct from your hand to play as 1 Stadium card.</small>"
+        }
+      ]
+    }
+  ]
+}

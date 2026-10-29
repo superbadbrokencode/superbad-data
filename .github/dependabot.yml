@@ -1,0 +1,30 @@
+version: 2
+updates:
+  # Weekly, with minor and patch updates grouped into one pull request, to
+  # keep the noise down. Major versions come one by one: read their notes.
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+    # Skip releases younger than 3 days. Keep equal to minimumReleaseAge in
+    # pnpm-workspace.yaml: Dependabot's pnpm runs use the longer of the two
+    # and fail on any lockfile entry younger than that.
+    cooldown:
+      default-days: 3
+    ignore:
+      # Node's type definitions stay on the major of the Node the job runs on (22).
+      - dependency-name: '@types/node'
+        update-types: ['version-update:semver-major']
+    groups:
+      npm-minor-and-patch:
+        patterns: ['*']
+        update-types: [minor, patch]
+  # Actions are pinned by commit, with the version in a comment, so a moved
+  # tag can't change what runs. Dependabot moves the commit and the comment together.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: weekly
+    groups:
+      actions:
+        patterns: ['*']

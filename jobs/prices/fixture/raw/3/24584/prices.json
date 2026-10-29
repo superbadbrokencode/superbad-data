@@ -1,0 +1,43 @@
+{
+  "totalItems": 4,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "productId": 673436,
+      "lowPrice": 54.99,
+      "midPrice": 67.72,
+      "highPrice": 333.0,
+      "marketPrice": 62.3,
+      "directLowPrice": null,
+      "subTypeName": "Normal"
+    },
+    {
+      "productId": 673439,
+      "lowPrice": 384.96,
+      "midPrice": 445.0,
+      "highPrice": 699.99,
+      "marketPrice": 392.75,
+      "directLowPrice": null,
+      "subTypeName": "Normal"
+    },
+    {
+      "productId": 686299,
+      "lowPrice": 0.01,
+      "midPrice": 0.09,
+      "highPrice": 2.0,
+      "marketPrice": 0.08,
+      "directLowPrice": null,
+      "subTypeName": "Normal"
+    },
+    {
+      "productId": 701594,
+      "lowPrice": 0.01,
+      "midPrice": 0.14,
+      "highPrice": 1.99,
+      "marketPrice": 0.11,
+      "directLowPrice": null,
+      "subTypeName": "Normal"
+    }
+  ]
+}
