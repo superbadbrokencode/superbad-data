@@ -1,0 +1,64 @@
+{
+  "source": "tcgcsv",
+  "asOf": "2026-10-28T20:06:05Z",
+  "day": "2026-10-28",
+  "categories": {
+    "3": {
+      "groups": 220,
+      "products": 32953,
+      "cards": 30012,
+      "sealed": 2941,
+      "rows": 46909,
+      "priced": 44624
+    },
+    "85": {
+      "groups": 461,
+      "products": 30741,
+      "cards": 30417,
+      "sealed": 324,
+      "rows": 33436,
+      "priced": 22735
+    }
+  },
+  "rows": 80345,
+  "priced": 67359,
+  "withM7": 0,
+  "withM30": 0,
+  "lookback": {
+    "m7": null,
+    "m30": null
+  },
+  "historyDays": [
+    "2026-10-28"
+  ],
+  "issueCounts": {
+    "number-unreadable": 22
+  },
+  "issues": [
+    {
+      "kind": "number-unreadable",
+      "path": "3/24831/products/726550",
+      "detail": "094/103(LeftHalf)<br>095/103(RightHalf)"
+    },
+    {
+      "kind": "number-unreadable",
+      "path": "3/24831/products/726551",
+      "detail": "096/103(LeftHalf)<br>097/103(RightHalf)"
+    },
+    {
+      "kind": "number-unreadable",
+      "path": "3/24831/products/726552",
+      "detail": "098/103(LeftHalf)<br>099/103(RightHalf)"
+    },
+    {
+      "kind": "number-unreadable",
+      "path": "3/1528/products/211448",
+      "detail": "099/102&100/102"
+    },
+    {
+      "kind": "number-unreadable",
+      "path": "3/1528/products/211449",
+      "detail": "101/102+102/102"
+    }
+  ]
+}
