@@ -1,0 +1,119 @@
+{
+  "totalItems": 4,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "productId": 673436,
+      "name": "First Partner Illustration Collection (Series 1)",
+      "cleanName": "First Partner Illustration Collection Series 1",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/673436_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24584,
+      "url": "https://www.tcgplayer.com/product/673436/pokemon-first-partner-collection-2026-first-partner-illustration-collection-series-1",
+      "modifiedOn": "2026-03-20T04:10:10.773",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2026-03-20T00:00:00",
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "30 Years of First Partner Pok\u00e9mon!\r\n<br>\r\nEvery Pok\u00e9mon Trainer\u2019s journey begins with a first partner\u2014a loyal friend who stands by your side through thick and thin! Relive your own adventures and celebrate the bond between Trainer and Pok\u00e9mon with a booster pack containing 3 of 9 illustration rare-style promo cards consisting of beloved first partner Pok\u00e9mon from the Kanto, Sinnoh, or Alola region. You\u2019ll also find two more Pok\u00e9mon TCG booster packs and a fun sticker sheet featuring first partner Pok\u00e9mon friends.\r\n<br><br>\r\nThe Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 1 includes:<br>\r\n\u2022 1 Pok\u00e9mon TCG booster pack containing 3 of 9 promo cards<br>\r\n\u2022 2 Pok\u00e9mon TCG booster packs<br>\r\n\u2022 1 sticker sheet"
+        },
+        {
+          "name": "UPC",
+          "displayName": "UPC",
+          "value": "0196214150522"
+        }
+      ]
+    },
+    {
+      "productId": 673439,
+      "name": "First Partner Illustration Collection Case (Series 1)",
+      "cleanName": "First Partner Illustration Collection Case Series 1",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/673439_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24584,
+      "url": "https://www.tcgplayer.com/product/673439/pokemon-first-partner-collection-2026-first-partner-illustration-collection-case-series-1",
+      "modifiedOn": "2026-03-20T04:10:10.773",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": "2026-03-20T00:00:00",
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "30 Years of First Partner Pok\u00e9mon!\r\n<br>\r\nEvery Pok\u00e9mon Trainer\u2019s journey begins with a first partner\u2014a loyal friend who stands by your side through thick and thin! Relive your own adventures and celebrate the bond between Trainer and Pok\u00e9mon with a booster pack containing 3 of 9 illustration rare-style promo cards consisting of beloved first partner Pok\u00e9mon from the Kanto, Sinnoh, or Alola region. You\u2019ll also find two more Pok\u00e9mon TCG booster packs and a fun sticker sheet featuring first partner Pok\u00e9mon friends.\r\n<br><br>\r\n<strong>Case contains 6 boxes </strong><br>\r\nThe Pok\u00e9mon TCG: First Partner Illustration Collection\u2014Series 1 includes:<br>\r\n\u2022 1 Pok\u00e9mon TCG booster pack containing 3 of 9 promo cards<br>\r\n\u2022 2 Pok\u00e9mon TCG booster packs<br>\r\n\u2022 1 sticker sheet"
+        },
+        {
+          "name": "UPC",
+          "displayName": "UPC",
+          "value": "10196214150529"
+        }
+      ]
+    },
+    {
+      "productId": 686299,
+      "name": "Code Card - First Partner Illustration Collection (Series 1)",
+      "cleanName": "Code Card First Partner Illustration Collection Series 1",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/686299_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24584,
+      "url": "https://www.tcgplayer.com/product/686299/pokemon-first-partner-collection-2026-code-card-first-partner-illustration-collection-series-1",
+      "modifiedOn": "2026-06-20T13:26:33.783",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Code Card"
+        },
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "This listing is <strong>not</strong> a physical item. Please keep in mind that this <strong>Code Card</strong> listing represents a digital copy of the stated item for the Pok\u00e9mon TCG Online <strong>and/or</strong> the Pok\u00e9mon TCG Live games. You may receive the physical <strong>Code Card</strong>. Upon purchase, please work with your specific Seller by sending them a message using the <strong>Contact Seller</strong> button on the order details in your <a href=https://store.tcgplayer.com/myaccount/orderhistory>Order History</a> to opt in to having your <strong>Code Card</strong> code delivered digitally due to the nature of the product."
+        }
+      ]
+    },
+    {
+      "productId": 701594,
+      "name": "Code Card - First Partner Illustration Collection (Series 2)",
+      "cleanName": "Code Card First Partner Illustration Collection Series 2",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/701594_200w.jpg",
+      "categoryId": 3,
+      "groupId": 24584,
+      "url": "https://www.tcgplayer.com/product/701594/pokemon-first-partner-collection-2026-code-card-first-partner-illustration-collection-series-2",
+      "modifiedOn": "2026-06-20T13:33:49.157",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Code Card"
+        },
+        {
+          "name": "CardText",
+          "displayName": "Card Text",
+          "value": "This listing is <strong>not</strong> a physical item. Please keep in mind that this <strong>Code Card</strong> listing represents a digital copy of the stated item for the Pok\u00e9mon TCG Online <strong>and/or</strong> the Pok\u00e9mon TCG Live games. You may receive the physical <strong>Code Card</strong>. Upon purchase, please work with your specific Seller by sending them a message using the <strong>Contact Seller</strong> button on the order details in your <a href=https://store.tcgplayer.com/myaccount/orderhistory>Order History</a> to opt in to having your <strong>Code Card</strong> code delivered digitally due to the nature of the product."
+        }
+      ]
+    }
+  ]
+}

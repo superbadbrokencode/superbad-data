@@ -1,0 +1,7 @@
+# No workspaces: this file holds pnpm's settings.
+
+# Only install package versions released at least 3 days ago (in minutes).
+# Most hijacked npm releases are caught and pulled within that time, and
+# Dependabot applies the same 3 days to its updates (its default cooldown,
+# set in .github/dependabot.yml). Keep the two numbers equal.
+minimumReleaseAge: 4320

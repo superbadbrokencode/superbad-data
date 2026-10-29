@@ -1,0 +1,52 @@
+{
+  "totalItems": 5,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "groupId": 604,
+      "name": "Base Set",
+      "abbreviation": "BS",
+      "isSupplemental": false,
+      "publishedOn": "1999-01-09T00:00:00",
+      "modifiedOn": "2026-10-19T18:50:49.3",
+      "categoryId": 3
+    },
+    {
+      "groupId": 609,
+      "name": "DP Training Kit 1 Blue",
+      "abbreviation": "PR",
+      "isSupplemental": false,
+      "publishedOn": "2007-09-24T00:00:00",
+      "modifiedOn": "2026-09-25T14:45:19.627",
+      "categoryId": 3
+    },
+    {
+      "groupId": 23237,
+      "name": "SV: Scarlet & Violet 151",
+      "abbreviation": "MEW",
+      "isSupplemental": false,
+      "publishedOn": "2023-09-22T00:00:00",
+      "modifiedOn": "2026-10-22T19:56:00.547",
+      "categoryId": 3
+    },
+    {
+      "groupId": 24584,
+      "name": "First Partner Collection 2026",
+      "abbreviation": "",
+      "isSupplemental": false,
+      "publishedOn": "2026-03-30T00:00:00",
+      "modifiedOn": "2026-09-01T16:20:54.39",
+      "categoryId": 3
+    },
+    {
+      "groupId": 24831,
+      "name": "ME06: Delta Reign",
+      "abbreviation": "DLR",
+      "isSupplemental": false,
+      "publishedOn": "2026-11-06T00:00:00",
+      "modifiedOn": "2026-10-28T18:36:29.03",
+      "categoryId": 3
+    }
+  ]
+}

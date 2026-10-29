@@ -1,0 +1,43 @@
+name: CI
+
+# The checks on every push that changes code: lint, formatting, the
+# typecheck and the unit tests. Pushes that change only docs or the data the
+# Prices workflow commits skip it.
+on:
+  push:
+    paths-ignore:
+      - 'docs/**'
+      - '**/*.md'
+      - 'data/**'
+  workflow_dispatch:
+
+# A newer push to the same branch cancels the run it replaces.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    name: Checks
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 22
+          cache: pnpm
+      - name: Install packages
+        run: bash tools/ci/report.sh "Install failed" pnpm install --frozen-lockfile
+      - name: Lint
+        run: bash tools/ci/report.sh "Lint failed" pnpm lint
+      - name: Formatting
+        run: bash tools/ci/report.sh "Formatting check failed" pnpm format:check
+      - name: Typecheck
+        run: bash tools/ci/report.sh "Typecheck failed" pnpm typecheck
+      - name: Unit tests
+        run: bash tools/ci/report.sh "Unit tests failed" pnpm test

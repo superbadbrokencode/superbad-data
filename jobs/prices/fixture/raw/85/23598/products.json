@@ -1,0 +1,196 @@
+{
+  "totalItems": 3,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "productId": 568124,
+      "name": "Tropius - 001/073",
+      "cleanName": "Tropius 001 073",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/568124_200w.jpg",
+      "categoryId": 85,
+      "groupId": 23598,
+      "url": "https://www.tcgplayer.com/product/568124/pokemon-japan-sv1a-triplet-beat-tropius-001-073",
+      "modifiedOn": "2024-09-05T15:12:55.263",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "001/073"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "110"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Fire x2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Grass] Leaf Drain (20)<br> Heal 20 damage from this Pok\u00e9mon."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[Grass][Grass][Colorless] Tropic Breeze (130)<br> Move all Energy from this Pok\u00e9mon to 1 of your Benched Pok\u00e9mon."
+        }
+      ]
+    },
+    {
+      "productId": 568125,
+      "name": "Foongus",
+      "cleanName": "Foongus",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/568125_200w.jpg",
+      "categoryId": 85,
+      "groupId": 23598,
+      "url": "https://www.tcgplayer.com/product/568125/pokemon-japan-sv1a-triplet-beat-foongus",
+      "modifiedOn": "2024-09-05T15:12:55.353",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Common"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "002/073"
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Grass"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "50"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Basic"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Fire x2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "1"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Grass] Enticing Pattern<br> Search your deck for a Basic Grass Pok\u00e9mon and put it onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Attack 2",
+          "displayName": "Attack 2",
+          "value": "[Grass][Colorless] Beat (20)"
+        }
+      ]
+    },
+    {
+      "productId": 568214,
+      "name": "Paldean Clodsire ex - 091/073",
+      "cleanName": "Paldean Clodsire ex 091 073",
+      "imageUrl": "https://tcgplayer-cdn.tcgplayer.com/product/568214_200w.jpg",
+      "categoryId": 85,
+      "groupId": 23598,
+      "url": "https://www.tcgplayer.com/product/568214/pokemon-japan-sv1a-triplet-beat-paldean-clodsire-ex-091-073",
+      "modifiedOn": "2024-09-05T15:13:02.937",
+      "imageCount": 1,
+      "presaleInfo": {
+        "isPresale": false,
+        "releasedOn": null,
+        "note": null
+      },
+      "extendedData": [
+        {
+          "name": "Rarity",
+          "displayName": "Rarity",
+          "value": "Super Rare"
+        },
+        {
+          "name": "Number",
+          "displayName": "Number",
+          "value": "091/073"
+        },
+        {
+          "name": "Description",
+          "displayName": "Description",
+          "value": "<strong>Ability: Toxic Wetland</strong> Once during your turn, if a Stadium is in play, you may make your opponent's Active Pok\u00e9mon Poisoned."
+        },
+        {
+          "name": "CardType",
+          "displayName": "Card Type",
+          "value": "Darkness"
+        },
+        {
+          "name": "HP",
+          "displayName": "HP",
+          "value": "280"
+        },
+        {
+          "name": "Stage",
+          "displayName": "Stage",
+          "value": "Stage 1"
+        },
+        {
+          "name": "Weakness",
+          "displayName": "Weakness",
+          "value": "Fighting x2"
+        },
+        {
+          "name": "Retreat Cost",
+          "displayName": "Retreat Cost",
+          "value": "3"
+        },
+        {
+          "name": "Attack 1",
+          "displayName": "Attack 1",
+          "value": "[Darkness][Colorless][Colorless] Needle Bone (200)<br> Flip a coin. If tails, during your next turn, this Pok\u00e9mon can't attack."
+        }
+      ]
+    }
+  ]
+}

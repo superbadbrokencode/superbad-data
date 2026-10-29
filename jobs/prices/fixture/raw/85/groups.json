@@ -1,0 +1,25 @@
+{
+  "totalItems": 2,
+  "success": true,
+  "errors": [],
+  "results": [
+    {
+      "groupId": 23598,
+      "name": "SV1a: Triplet Beat",
+      "abbreviation": "SV1a",
+      "isSupplemental": false,
+      "publishedOn": "2023-03-10T00:00:00",
+      "modifiedOn": "2025-03-12T20:04:30.763",
+      "categoryId": 85
+    },
+    {
+      "groupId": 24791,
+      "name": "M6: Storm Emeralda",
+      "abbreviation": "m6",
+      "isSupplemental": false,
+      "publishedOn": "2026-07-31T00:00:00",
+      "modifiedOn": "2026-09-16T21:28:18.367",
+      "categoryId": 85
+    }
+  ]
+}

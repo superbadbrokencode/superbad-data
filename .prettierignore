@@ -1,0 +1,11 @@
+# Prettier formats code and config: `pnpm format`. CI checks it.
+
+# Docs are prose with hand-laid tables
+*.md
+
+# Written by tools
+pnpm-lock.yaml
+
+# TCGCSV's data as the source and the job write it, never reformatted
+jobs/prices/fixture/
+data/
