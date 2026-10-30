@@ -9,6 +9,8 @@ What the Prices workflow commits under `data/`, nightly, and what each file hold
 
 The same paths serve `summary.json` and `history/<day>.json`.
 
+A page that can load scripts only from a CDN (a claude.ai artifact: its CSP blocks fetch() to both hosts above) reads the day's catalog as an npm package instead, one version per data day, named by that day as CalVer: `https://cdn.jsdelivr.net/npm/superbad-data@2026.10.28/catalog.js` sets `self.SUPERBAD_CATALOG_TEXT` to the text of catalog.json, and `summary.js` does the same for summary.json (docs/decisions/0002-the-npm-feed.md). The Prices workflow publishes it nightly by trusted publishing; versions start on 2026.10.29.
+
 ## data/catalog.json
 
 Every TCGplayer product in the Pokémon (English) and Pokémon Japan categories, one row per printing TCGplayer prices, as of TCGCSV's last refresh. About 80,000 rows, 8 MB (1.3 MB gzipped).
