@@ -2,9 +2,13 @@ name: Prices
 
 # TCGplayer's catalog and prices for English and Japanese Pokémon, from TCGCSV,
 # into data/ (docs/decisions/0001-the-data-job.md): nightly, by hand, and when
-# the job's code changes. No secrets: the steps read a public site and push
-# with the run's own token. Off main the build runs and nothing is committed.
-# Failures come back as annotations (tools/ci/report.sh).
+# the job's code changes. No secrets: the steps read a public site, push with
+# the run's own token, and publish the day's catalog as the npm package
+# superbad-data by trusted publishing (the run's OIDC token, set on npmjs.com;
+# docs/decisions/0002-the-npm-feed.md). An NPM_TOKEN secret, if one exists, is
+# used instead (the first publish needed one). Off main the build runs and
+# nothing is committed or published. Failures come back as annotations
+# (tools/ci/report.sh).
 on:
   schedule:
     # 21:37 UTC: TCGCSV refreshes around 20:00 UTC.
@@ -23,6 +27,7 @@ concurrency:
 
 permissions:
   contents: write
+  id-token: write # npm trusted publishing (the publish step only)
 
 jobs:
   prices:
@@ -82,6 +87,23 @@ jobs:
           done
           echo "::error title=Push failed::main moved three times while the data was being committed"
           exit 1
+
+      # Trusted publishing needs npm 11.5.1 or newer; Node 24 bundles one. The
+      # build above stays on Node 22, the version CI tests.
+      - name: Node 24 for the publish step
+        if: github.ref == 'refs/heads/main'
+        uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      - name: Publish the day's catalog to npm (main only)
+        if: github.ref == 'refs/heads/main'
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: >-
+          bash tools/ci/report.sh "npm publish failed"
+          node jobs/prices/publish.ts --data data --out "$RUNNER_TEMP/npm"
 
       - name: Report counts
         if: always()

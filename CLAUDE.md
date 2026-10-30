@@ -12,7 +12,7 @@ Before every push: `pnpm install`, then `pnpm lint`, `pnpm format:check` (`pnpm 
 
 ## Rules
 
-- Public repo: nothing of the business in it. No buy rules, no stock, no personal details, no secrets (the job needs none). The data is TCGplayer's public prices and nothing else.
+- Public repo: nothing of the business in it. No buy rules, no stock, no personal details, no secrets (the job needs none: the npm publish uses trusted publishing, docs/decisions/0002-the-npm-feed.md). The data is TCGplayer's public prices and nothing else.
 - Borrow the TCG App's shape, never its files: the same layout (jobs/ with fetch and build steps, packages/core for rules with no I/O, fixtures and byte-for-byte tests, pinned actions, annotations), written fresh here. Nothing copied verbatim from a private repo.
 - The job never guesses: what it can't read is null and counted in summary.json, and a changed format or a shrunken day stops it rather than writing a wrong day.
 - The data tree's columns are added at the end and never renamed or removed (docs/schema.md); a consumer reads rows by column name.
