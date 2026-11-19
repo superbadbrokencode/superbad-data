@@ -1,31 +1,31 @@
 {
   "source": "tcgcsv",
-  "asOf": "2026-11-17T20:05:43Z",
-  "day": "2026-11-17",
+  "asOf": "2026-11-18T20:05:56Z",
+  "day": "2026-11-18",
   "categories": {
     "3": {
       "groups": 221,
-      "products": 33101,
-      "cards": 30157,
-      "sealed": 2944,
-      "rows": 47157,
-      "priced": 44960
+      "products": 33106,
+      "cards": 30159,
+      "sealed": 2947,
+      "rows": 47162,
+      "priced": 44956
     },
     "85": {
       "groups": 462,
-      "products": 30824,
-      "cards": 30497,
+      "products": 30833,
+      "cards": 30506,
       "sealed": 327,
-      "rows": 33740,
-      "priced": 23179
+      "rows": 33728,
+      "priced": 23139
     }
   },
-  "rows": 80897,
-  "priced": 68139,
-  "withM7": 67663,
+  "rows": 80890,
+  "priced": 68095,
+  "withM7": 67634,
   "withM30": 0,
   "lookback": {
-    "m7": "2026-11-10",
+    "m7": "2026-11-11",
     "m30": null
   },
   "historyDays": [
@@ -49,7 +49,8 @@
     "2026-11-14",
     "2026-11-15",
     "2026-11-16",
-    "2026-11-17"
+    "2026-11-17",
+    "2026-11-18"
   ],
   "issueCounts": {
     "number-unreadable": 19
